@@ -1,0 +1,4 @@
+#transrate command usage
+#uses the fasta assemblies
+
+transrate --assembly assemblies/transcripts.fasta,assemblies/Trinity.fasta --left original_SRR/oldSRR3203240_1.fastq --right original_SRR/oldSRR3203240_2.fastq --threads 24
