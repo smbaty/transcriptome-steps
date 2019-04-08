@@ -1,0 +1,1 @@
+/lustre/scratch/sabaty/bbmap/bbduk.sh in1=/lustre/scratch/sabaty/SRR3203240_1.fastq.gz in2=/lustre/scratch/sabaty/SRR3203240_2.fastq.gz out1=/lustre/scratch/sabaty/testing/SRR3203240_1.fastq.gz out2=/lustre/scratch/sabaty/testing/SRR3203240_2.fastq.gz minlen=50 ftl=10 qtrim=rl trimq=10 ktrim=r k=25 mink=7 ref=/lustre/work/sabaty/bbmap/resources/adapters.fa hdist=1 tbo tpe
