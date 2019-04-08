@@ -1,0 +1,3 @@
+#fastqc example
+
+fastqc -o quality_reports -t 4 ./*fastq.gz
