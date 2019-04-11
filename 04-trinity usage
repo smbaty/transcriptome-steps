@@ -1,3 +1,4 @@
 #run trinity command
+#must do source activate trinity
 
 Trinity --seqType fq --max_memory 8G --left /lustre/scratch/sabaty/SRR3203240_1.fastq  --right /lustre/scratch/sabaty/SRR3203240_2.fastq --CPU 1
